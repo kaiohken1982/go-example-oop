@@ -10,5 +10,6 @@ func main() {
 	// linkedListOfIntegersExample()
 	// pointExample()
   // valuesExample()
-  structEmbeddingExample()
+  // structEmbeddingExample()
+	cacheExample()
 }
