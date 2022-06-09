@@ -11,5 +11,6 @@ func main() {
 	// pointExample()
   // valuesExample()
   // structEmbeddingExample()
-	cacheExample()
+	// cacheExample()
+  intSetExample()
 }
